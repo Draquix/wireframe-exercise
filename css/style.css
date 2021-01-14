@@ -1,0 +1,44 @@
+header {
+    background-color:black;
+    display:inline-block;
+    border:2px;
+    text-align:justify;
+    -ms-text-justify:distribute-all-lines;
+
+}
+nav {
+    display:inline-block;
+    border:2px;
+    text-align:justify;
+    -ms-text-justify:distribute-all-lines;
+    display:inline-block;
+    min-width:min-content;
+}
+main {
+    background-color:blueviolet;
+}
+div{
+    display:inline-block;
+}
+#first {
+    margin:10px;
+    background-color:green;
+}
+#second {
+    border:5px solid;
+}
+article {
+    float:right;
+    width:480px;
+    height:400px;
+
+    background-color:blue;
+}
+body {
+    background-colr:rgb(31, 138, 177);
+
+}
+footer {
+    height:120px;
+    background-color:black;
+}
